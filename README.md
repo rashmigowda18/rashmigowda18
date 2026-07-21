@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rashmi Gowda
+# Hi 👋, I'm Rashmi M
 
 ## 👩‍💻 About Me
 
