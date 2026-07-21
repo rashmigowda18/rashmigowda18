@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Rashmi Gowda
 
-<!--
-**rashmigowda18/rashmigowda18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 💻 Python Developer
+- 🗄️ SQL & PostgreSQL
+- ☁️ AWS
+- 🌐 Web Scraping using Selenium & BeautifulSoup
+- 📊 Pandas & Data Processing
+- 🚀 Currently learning Data Engineering & PySpark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+- Python
+- SQL
+- PostgreSQL
+- AWS
+- Selenium
+- BeautifulSoup
+- Pandas
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Learning
+
+- PySpark
+- Apache Spark
+- AWS Data Engineering
+- ETL Pipelines
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/rashmimgowda
+
+Thanks for visiting my profile! 😊
