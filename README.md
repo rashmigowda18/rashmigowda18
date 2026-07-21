@@ -20,8 +20,6 @@
 - Selenium
 - BeautifulSoup
 - Pandas
-- Git
-- GitHub
 
 ---
 
